@@ -15,7 +15,7 @@
         - Training model
         - Evaluating model
 
-![alt text](https://raw.githubusercontent.com/srahnama/Stock-Market-Analysis-with-RNN---LSTM/main/Shahab%20Rahnama%20-%20Examplae%20result.png)
+![alt text](https://raw.githubusercontent.com/srahnama/Digikala-Comments-Analysis/main/wordcloud.png)
 
 ### Example results
 
